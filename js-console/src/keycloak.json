@@ -1,5 +1,5 @@
 {
-  "realm" : "master",
-  "auth-server-url" : "<SERVER_URL>/auth",
+  "realm" : "Renatorc",
+  "auth-server-url" : "https://keycloak-sso.apps.cluster-a2ae.a2ae.sandbox816.opentlc.com/auth",
   "resource" : "js-console"
 }
